@@ -3246,6 +3246,7 @@ input, select, textarea {
 			margin: 1.2em 2.4em 1.2em 0;
 			width: calc(25% - 1.5em);
 			font-size: 0.7em;
+			gap: 20px;
 		}
 
 			.long-features article:nth-child(2n) {
