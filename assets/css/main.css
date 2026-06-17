@@ -3245,8 +3245,8 @@ input, select, textarea {
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(25% - 1.5em);
-			font-size: 2.5rem;
-  			line-height: 1.2;
+			font-size: 1rem;
+  			line-height: 0.8;
 		}
 
 			.long-features article:nth-child(2n) {
