@@ -3236,7 +3236,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		margin: 0 0 1em 0;
+		margin: 0 0 1.5em 0;
 	}
 
 		.long-features article {
@@ -3255,7 +3255,7 @@ input, select, textarea {
 				margin-left: -1.75em;
 				margin-top: -1.75em;
 				position: relative;
-				width: calc(100% + 3em);
+				width: calc(100% + 3.5em);
 			}
 
 				.long-features article .image img {
