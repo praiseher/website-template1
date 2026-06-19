@@ -3245,7 +3245,7 @@ input, select, textarea {
 			border-radius: 5px;
 			margin: 1.2em 2.4em 1.2em 0;
 			width: calc(25% - 1.5em);
-			font-size: 0.7em;
+			font-size: 0.6em;
 			gap: 20px;
 		}
 
@@ -3260,12 +3260,12 @@ input, select, textarea {
 				margin-left: -1.75em;
 				margin-top: -1.75em;
 				position: relative;
-				width: calc(75% + 3.5em);
+				width: calc(100% + 3.5em);
 			}
 
 				.long-features article .image img {
 					border-radius: 5px 5px 0 0;
-					width: 75%;
+					width: 100%;
 				}
 
 		@media screen and (max-width: 980px) {
