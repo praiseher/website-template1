@@ -3237,16 +3237,16 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		margin: 0 0 1.5em 0;
+		gap: 1rem;
 	}
 
 		.long-features article {
-			padding: 1em 1em 0.1em 1em ;
+			padding: 1.75em 1.75em 0.1em 1.75em ;
 			background-color: #353849;
 			border-radius: 5px;
 			margin: 1.2em 2.4em 1.2em 0;
 			width: calc(25% - 1.5em);
 			font-size: 0.7em;
-			gap: 20px;
 		}
 
 			.long-features article:nth-child(2n) {
