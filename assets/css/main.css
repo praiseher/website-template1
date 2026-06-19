@@ -3236,7 +3236,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1em 0;
 	}
 
 		.long-features article {
