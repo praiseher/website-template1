@@ -3253,6 +3253,7 @@ input, select, textarea {
 			}
 
 			.long-features article .image {
+				padding: 1.75em 1.75em 0.1em 1.75em;
 				border-radius: 5px 5px 0 0;
 				display: block;
 				margin-bottom: 1.75em;
