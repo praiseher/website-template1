@@ -3243,7 +3243,7 @@ input, select, textarea {
 			padding: 1.75em 1.75em 0.1em 1.75em ;
 			background-color: #353849;
 			border-radius: 5px;
-			margin: 1.2em 2.4em 1.2em 0;
+			margin: 1em 2em 1em 0;
 			width: calc(25% - 1.5em);
 			font-size: 0.6em;
 			gap: 20px;
