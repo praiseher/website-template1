@@ -3248,10 +3248,6 @@ input, select, textarea {
 			font-size: 0.7em;
 		}
 
-			.long-features article:nth-child(4n) {
-				margin-right: 0;
-			}
-
 			.long-features article .image {
 				padding: 1.75em 1.75em 0.1em 1.75em;
 				border-radius: 5px 5px 0 0;
