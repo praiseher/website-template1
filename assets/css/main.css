@@ -3260,12 +3260,12 @@ input, select, textarea {
 				margin-left: -1.75em;
 				margin-top: -1.75em;
 				position: relative;
-				width: calc(100% + 3.5em);
+				width: calc(75% + 3.5em);
 			}
 
 				.long-features article .image img {
 					border-radius: 5px 5px 0 0;
-					width: 100%;
+					width: 75%;
 				}
 
 		@media screen and (max-width: 980px) {
