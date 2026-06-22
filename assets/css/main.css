@@ -3256,7 +3256,7 @@ input, select, textarea {
 				margin-left: -1.75em;
 				margin-top: -1.75em;
 				position: relative;
-				width: calc(100% + 3em);
+				width: calc(100% + 3.5em);
 			}
 
 				.long-features article .image img {
