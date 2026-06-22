@@ -3243,15 +3243,14 @@ input, select, textarea {
 			padding: 1.75em 1.75em 0.1em 1.75em;
 			background-color: #353849;
 			border-radius: 5px;
-			margin: 0.8em 0 0.8em 0;
-			width: calc(25% - 0.5em);
+			margin: 0.8em 1em 0.8em 0;
+			width: calc(25% - 1em);
 			font-size: 0.7em;
 		}
 
 			.long-features article .image {
 				border-radius: 5px 5px 0 0;
 				display: block;
-				margin-right: 0;
 				margin-bottom: 1.75em;
 				margin-left: -1.75em;
 				margin-top: -1.75em;
