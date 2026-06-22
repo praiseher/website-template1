@@ -3252,6 +3252,7 @@ input, select, textarea {
 				border-radius: 5px 5px 0 0;
 				display: block;
 				margin-bottom: 1.75em;
+				margin-right: 1.75em;
 				margin-left: -1.75em;
 				margin-top: -1.75em;
 				position: relative;
